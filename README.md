@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uday
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning at Meerut Public School
 - 📫 How to reach me uday30102008@gmail.com
 - ⚡ Fun fact: I used to use arch btw ;)
 
